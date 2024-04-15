@@ -1,7 +1,5 @@
 # kimcklaura.github.io
 
-Price Calculator
-...
 import java.util.Scanner;
  
 public class Main {

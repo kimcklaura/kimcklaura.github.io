@@ -1,13 +1,13 @@
 # kimcklaura.github.io
 
 Price Calulator
-...
-import java.util.Scanner;
 
+import java.util.Scanner;
+ 
 public class Main {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
-        
+ 
         // Ask user for quantity
         System.out.print("Please, enter the quantity: ");
         int quantity = scanner.nextInt();
@@ -26,4 +26,3 @@ public class Main {
         scanner.close();
     }
 }
-...
